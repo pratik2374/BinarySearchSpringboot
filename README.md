@@ -5,8 +5,8 @@ This is a project that provides API(POST request using JSON) to use efficient bi
 ![Project Logo](IMG/sortedFound.png)
 
 *simple implementaion using postman app in a unsorted array*
-![Project Logo](IMG/unsortedsortedFound.png)
-![Project Logo](IMG/unsortedsortedFound.png)
+![Project Logo](IMG/unsortedFound.png)
+![Project Logo](IMG/unsortedNotFound.png)
 
 Like we are using of binary search algo , similarly we can use any LLM application using lanchain to make Ai powered apps and access using API's
 
